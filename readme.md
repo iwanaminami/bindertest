@@ -11,7 +11,14 @@
 
 [https://github.com/binder-examples/r](https://github.com/binder-examples/r)
 
+### Jupyter Notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?filepath=Untitled2.ipynb)
 
+### JupyterLab
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=Untitled2.ipynb)
+
+### RStudio
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?urlpath=rstudio)
