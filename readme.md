@@ -6,6 +6,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=%2F00_bindertest_2.ipynb)
 
+
+## R
+
+[https://github.com/binder-examples](https://github.com/binder-examples)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=%2FUntitled2.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?filepath=Untitled2.ipynb)
