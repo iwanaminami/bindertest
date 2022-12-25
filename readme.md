@@ -9,8 +9,7 @@
 
 ## R
 
-[https://github.com/binder-examples](https://github.com/binder-examples)
+[https://github.com/binder-examples/r](https://github.com/binder-examples/r)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=%2FUntitled2.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?filepath=Untitled2.ipynb)
