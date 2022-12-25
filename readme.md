@@ -6,4 +6,4 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=%2F00_bindertest_2.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=%2FUntitiled2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iwanaminami/bindertest/main?labpath=%2FUntitled2.ipynb)
